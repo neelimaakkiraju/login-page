@@ -8,7 +8,7 @@ export default function Dashboard() {
 
   return (
     <div style={{ textAlign: "center", marginTop: 50 }}>
-      <h1>Dashboard</h1>
+      <h1>Welcome User!</h1>
       <p>You are logged in!</p>
       <button onClick={logout}>Logout</button>
     </div>
